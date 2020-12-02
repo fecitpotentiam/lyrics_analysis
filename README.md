@@ -5,4 +5,4 @@ First, I have downloaded this dataset https://www.kaggle.com/terminate9298/songs
 
 Then I have tagged every artist with LastFM API and added tags for lyrics. 
 
-Now I'm trying to improve my classifier algorithm, it's an extremely interesting task for me as for music lover. 
+Now I'm trying to improve my genre classification algorithm, it's an extremely interesting task for me as for music lover. 
